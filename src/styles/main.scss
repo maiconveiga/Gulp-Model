@@ -1,0 +1,9 @@
+@use './config/var';
+
+body{
+    background-color: var.$cor;
+}
+
+main{
+    color : rgb(81, 41, 41);
+}
